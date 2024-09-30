@@ -67,6 +67,7 @@ body {
 }
 
 .open .number,
-.open .text {
+.open .title {
+  font-weight: bold;
   color: #087f5b;
 }
